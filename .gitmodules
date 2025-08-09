@@ -1,18 +1,24 @@
 [submodule "MediCluster"]
 	path = MediCluster
 	url = git@github.com:YassienTawfikk/MediCluster.git
+	branch = main
 [submodule "PredictiLoan"]
 	path = PredictiLoan
 	url = git@github.com:YassienTawfikk/PredictiLoan.git
+	branch = main
 [submodule "MusicSpectroNet"]
 	path = MusicSpectroNet
 	url = git@github.com:YassienTawfikk/MusicSpectroNet.git
+	branch = main
 [submodule "SmartRetailRegressor"]
 	path = SmartRetailRegressor
 	url = git@github.com:YassienTawfikk/SmartRetailRegressor.git
+	branch = main
 [submodule "MovieMatch100K"]
 	path = MovieMatch100K
 	url = git@github.com:YassienTawfikk/MovieMatch100K.git
+	branch = main
 [submodule "DriveSafe-Sign-Detection"]
 	path = DriveSafe-Sign-Detection
 	url = git@github.com:YassienTawfikk/DriveSafe-Sign-Detection.git
+	branch = main
