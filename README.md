@@ -94,6 +94,15 @@ python main.py
 
 ---
 
+### Submission
+
+These projects are part of my **Elevvoe AI Internship - Septemeber 2025**
+
+
+<img width="2000" height="1414" alt="Yassien Tawfik" src="https://github.com/user-attachments/assets/94df6689-dd3e-4904-9843-3e54a041cb7d" />
+
+---
+
 ### Author
 
 <div>
